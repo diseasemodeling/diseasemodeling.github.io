@@ -4,4 +4,4 @@ We develop mathematical and computational models for disease prediction, prevent
 RESEARCH AREA
 
 Simulation, networks, machine learning, reinforcement learning, simulation-based optimization, dynamic programming, stochastic processes
-[Model](https://github.com/diseasemodeling/diseasemodeling.github.io/file) 
+[Model](https://github.com/diseasemodeling/diseasemodeling.github.io/file.xml) 
