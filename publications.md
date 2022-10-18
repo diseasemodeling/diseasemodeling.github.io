@@ -1,3 +1,4 @@
+# Disease Modeling Lab, PI: Chaitra Gopalappa
 ## PUBLICATIONS 
 * 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Rsearch Methodology (Accepted)
 
