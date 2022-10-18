@@ -1,3 +1,5 @@
+# [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
+
 ### AWARDS
 * A1.	2021- Invited to present at Turning Research Into Practice (TRIP), CDC’s center-wide seminar (Professor Gopalappa)
 * A2. 2021- Best paper award, IISE Modeling and Simulation Division -winner, IISE annual meeting (virtual under COVID-19), with student first author (*Sonza Singh).
