@@ -12,10 +12,10 @@
 * A11.	2010- Finalist, Pierskalla Best Paper Award, Institute for Operations Research and Management Sciences (INFORMS) (Chaitra Gopalappa)
 
 ### FUNDING
-* Funding: CDC (PI: Chaitra Gopalappa) Cluster detection and response, August 2020
-* Funding: NSF # 1915481 (PI: Chaitra Gopalappa; co-PI: Peter Haas, Hari Balasubramanian, Dean Robinson, Jag Chhatwal; Collaborators: CDC and WHO) for developing new methods for multi-disease modeling, July 2019 NSF LINK UMASS  CHC
-* Funding: NIH R01AI127236 (PI: Chaitra Gopalappa; Collaborators: CDC) for developing new models for HIV, July 2017 LINK
-* Funding: WHO (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
+* 2020-2021 Funding: CDC (PI: Chaitra Gopalappa) Cluster detection and response, August 2020
+* 2020-2023 Funding: NSF # 1915481 (PI: Chaitra Gopalappa; co-PI: Peter Haas, Hari Balasubramanian, Dean Robinson, Jag Chhatwal; Collaborators: CDC and WHO) for developing new methods for multi-disease modeling, July 2019 NSF LINK UMASS  CHC
+* 2017-2023 Funding: NIH R01AI127236 (PI: Chaitra Gopalappa; Collaborators: CDC) for developing new models for HIV, July 2017 LINK
+* 2015-2016 Funding: WHO (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
 
 ### STUDENT NEWS
 *   Hanisha Tatapudi joines Merck, 2022
