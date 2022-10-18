@@ -6,9 +6,9 @@ We develop mathematical and computational models for disease prediction, prevent
 
 Simulation, networks, machine learning, reinforcement learning, simulation-based optimization, dynamic programming, stochastic processes
 
-[PEOPLE](People.md)  
-[PUBLICATIONS](publications.md)    
-[AWARDS](Awards.md)    
-[LabWebsite](https://blogs.umass.edu/chaitrag/)  
+### [PEOPLE](People.md)  
+### [PUBLICATIONS](publications.md)    
+### [AWARDS](Awards.md)    
+### [LabWebsite](https://blogs.umass.edu/chaitrag/)  
 
 
