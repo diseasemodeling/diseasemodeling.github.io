@@ -21,31 +21,31 @@ Dr. Chaitra Gopalappa, PhD
 
 GRADUATE STUDENTS
 
-*   2020-2021 Hanisha Tatapudi, PhD   
+*   2021 Hanisha Tatapudi, PhD   
      Joined Merck    
-*   2018-2021 Sonza Singh,  MS, Industrial Engineering
+*   2021 Sonza Singh,  MS, Industrial Engineering
 
-*   2017-2021 Nazanin Khatami, PhD, Industrial Engineering   
+*   2021 Nazanin Khatami, PhD, Industrial Engineering   
        Joined Harvard Medical school as post doc
        
-*   2018- 2020: Shifali Shifali, MS in IEOR   
+*   2020 Shifali Shifali, MS in IEOR   
         Interned at Super Brush as Quality Assurance intern, Summer 2019  
         Employed at Amazon, 2020  
          
-*   2020: Ron Mallach, PhD student in IEOR, Summer research, WebApp for COVID-19 model  
+*   2020 Ron Mallach, PhD student in IEOR, Summer research, WebApp for COVID-19 model  
 
-*   2015– 2019: Buyannemekh Munkhbat, MS in IEOR, Computational model for predicting epidemic spread using the evolving contact network algorithm  
+*   2019 Buyannemekh Munkhbat, MS in IEOR, Computational model for predicting epidemic spread using the evolving contact network algorithm  
         Interned at Stanford University, Summer 2018  
         Employed at Insight Data Engineering Fellowship Program, June 2019  
         Employment: Machine learning engineer, Vanguard, 2019  
 
-*   2017- 2019: Vijeta Deshpande, MS in IEOR  
+*   2019 Vijeta Deshpande, MS in IEOR  
         Interned at Avenir Health, Decision analytic modeling for non-communicable diseases, Fall 2018  
         Employed as mathematical modeler at the Massachusetts General Hospital, June 2019  
 
-*   2017- 2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics
+*   2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics
 
-*   2015- 2016 Jiachen Guo, MS in Mechanical Engineering – Parameterization of cancer progression models in two WHO world regions, using two-step Markov process methodology
+*   2016 Jiachen Guo, MS in Mechanical Engineering – Parameterization of cancer progression models in two WHO world regions, using two-step Markov process methodology
 
 UG HONORS THESIS
 * 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)
