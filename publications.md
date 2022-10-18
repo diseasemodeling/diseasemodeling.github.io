@@ -21,7 +21,7 @@
  * 2018 Gopalappa, C., Guo*, J., Meckoni*, P., Munkhbat*, B., Pretorius, C., Lauer, J., Ilbawi, A., Bertram, M., A two-step Markov processes approach for parameterization of cancer state-transition models for low- and middle- income countries, Medical Decision Making, Vol. 38(4) 520–530, 2018, PDF technical-suppl LINK  
     _** Work in collaboration with the World Health Organization (WHO) and Avenir Health  
     ** Informed: World Health Organization, Cancer Interventions Technical Briefing For The Updated (2017) Appendix 3 Of The Global Action Plan For The  Prevention And Control Of Noncommunicable Diseases 2013-2020, LINK*  
-     ** Inofrmed: World Health Organization, Best buys and other recommended interventions for the prevention and control of noncommunicable diseases, Updated (2017) appendix 3 of the global action plan for the prevention and control of noncommunicable diseases 2013-2020, LINK_  
+     ** Informed: World Health Organization, Best buys and other recommended interventions for the prevention and control of noncommunicable diseases, Updated (2017) appendix 3 of the global action plan for the prevention and control of noncommunicable diseases 2013-2020, LINK_  
 
 * 2017 Gopalappa, C., Farnham, P.G., Chen, Y-H., and Sansom, S.L. Combinations of interventions to achieve a national HIV incidence reduction goal: insights from an agent-based model. AIDS, November 28, 2017 - Volume 31 - Issue 18 - p 2533 to 2539 LINK   
     **_Work in collaboration with the Centers for Disease Control and Prevention_
@@ -42,11 +42,11 @@
 * 2014 Stover, J., Gopalappa, C., Mahy, M., Doherty, M.C., Easterbrook, P.J., Weiler, G., and Ghys, P.D., The impact and cost of the 2013 WHO recommendations on eligibility for antiretroviral therapy, AIDS, 28 Suppl. 2:S225-30, 2014 PDF  
    _** Cited in Guideline on when to start antiretroviral therapy and on pre-exposure prophylaxis for HIV, The World Health Organization, September 2015, http://apps.who.int/iris/bitstream/10665/186275/1/9789241509565_eng.pdf_
       
-* 2013 Gopalappa, C., Huang, Y., Melanie, T., Kwame, O., and Gift, T., Cost-effectiveness of screening men in Maricopa County jails for chlamydia and gonorrhea to avert infections in women, STD, 40 (10):776-783, 2013 MODEL
- 
 * 2014 Pretorius, C., Menzies, N.A., Chindelevitch, L., Cohen, T., Cori, A., Eaton, J. A., Fraser, C., Gopalappa, C., Hallett, T. B., Salomon, J. A., Stover, J., White, R. G., Dodd, P. J., The potential effects of changing HIV treatment policy on TB outcomes in South Africa: results from three TB-HIV transmission models, AIDS, 28 Suppl 1:S25-34, 2014
  
 * 2014 Eaton, J., Menzies, N., Stover, J., Cambiano, V., Chindelevitch, L., Cori, A., Hontelez, J. A. C., Humair, S., Kerr C. C., Klein, D J., Mishra, S., Mitchell, K. M., Nichols, B.E., Vickerman, V., Bakker, R., Barnighausen, T., Bershteyn, A., Bloom, D.E., Boily, M-C, Chang, S.T., Cohen, T., Dodd, P.J., Fraser, C., Gopalappa, C., Lundgren, J., Martin, N.K., Mikkelsen, E., Mountain, E., Pham, Q.D., Pickles, M., Phillips, A., Platt, L., Pretorius, C., Prudden, H.J., Salomon, J.A., van de Vijver, D.A.M.C., de Vlas, S. J., Wagner, B. G., White, R.G., Wilson, D.P., Zhang, L., Blandford, J., Meyer-Rath, G., Remme, M., Revill, P., Sangrujee, N., Terris-Prestholt, F., Doherty, M., Shaffer, N., Easterbrook, P.J., Hirnschall, G., Hallett, T.B., How should HIV programmes respond to evidence for the benefits of earlier treatment initiation? A combined analysis of twelve mathematical models, Lancet Global Health, 2(1):e23, 2014
+
+* 2013 Gopalappa, C., Huang, Y., Melanie, T., Kwame, O., and Gift, T., Cost-effectiveness of screening men in Maricopa County jails for chlamydia and gonorrhea to avert infections in women, STD, 40 (10):776-783, 2013 MODEL
  
 * 2013 Farnham, P., Gopalappa, C., Sansom, S., Updates of lifetime costs of care and quality-of-life estimates for HIV-infected persons in the United States: late versus early diagnosis and entry into care, JAIDS, 64(2):183-189, 2013. MODEL  
     _**Cited in the National HIV AIDS Strategy for the United States: Update to 2020, The White House, July 2015 https://www.aids.gov/federal-resources/national-hiv-aids-strategy/nhas-update.pdf      
