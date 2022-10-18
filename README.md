@@ -6,3 +6,5 @@ RESEARCH AREA
 
 Simulation, networks, machine learning, reinforcement learning, simulation-based optimization, dynamic programming, stochastic processes
 [LabWebsite](https://blogs.umass.edu/chaitrag/) 
+
+[PUBLICATIONS](https://github.com/diseasemodeling/diseasemodeling.github.io/blob/dbdd6fc9aab155ea95c5ef00853d2c0b849e04ab/publications.md)
