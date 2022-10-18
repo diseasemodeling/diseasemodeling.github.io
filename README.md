@@ -6,8 +6,7 @@ RESEARCH AREA
 
 Simulation, networks, machine learning, reinforcement learning, simulation-based optimization, dynamic programming, stochastic processes
 
+[PEOPLE](People.md)  
+[PUBLICATIONS](publications.md)    
+[AWARDS](Awards.md)    
 [LabWebsite](https://blogs.umass.edu/chaitrag/)  
-
-[PUBLICATIONS](publications.md)  
-
-[AWARDS](Awards.md)  
