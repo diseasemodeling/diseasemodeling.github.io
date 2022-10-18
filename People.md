@@ -1,7 +1,11 @@
 
 ## Faculty/ Lab PI
 
-Dr. Chaitra Gopalappa, PhD, Associate Professor Industrial Engineering and Commonwealth Honors College,  Department of Mechanical and Industrial Engineering, University of Massachusetts, Amherst chaitrag(at)umass(dot)edu
+Dr. Chaitra Gopalappa, PhD   
+     Associate Professor, Industrial Engineering, Department of Mechanical and Industrial Engineering, University of Massachusetts, Amherst  
+     Associate Professor, Commonwealth Honors College, University of Massachusetts, Amherst   
+     Guest Researcher, Centers for Disease Control and Prevention  
+     chaitrag(at)umass(dot)edu  
 
 ## Graduate Students
 * Xinmeng Zhao,  PhD Student
@@ -13,7 +17,7 @@ Dr. Chaitra Gopalappa, PhD, Associate Professor Industrial Engineering and Commo
 ## Undergraduate students
 * Ryanne McKenna
 
-ALUMNI
+## ALUMNI
 
 GRADUATE STUDENTS
 
