@@ -26,9 +26,9 @@
 
  * Gopalappa, C., Guo*, J., Meckoni*, P., Munkhbat*, B., Pretorius, C., Lauer, J., Ilbawi, A., Bertram, M., A two-step Markov processes approach for parameterization of cancer state-transition models for low- and middle- income countries, Medical Decision Making, Vol. 38(4) 520–530, 2018, PDF technical-suppl LINK
 
-    ** Work in collaboration with the World Health Organization (WHO) and Avenir Health
-    ** Informed: World Health Organization, Cancer Interventions Technical Briefing For The Updated (2017) Appendix 3 Of The Global Action Plan For The  Prevention And Control Of Noncommunicable Diseases 2013-2020, LINK*
-     ** Inofrmed: World Health Organization, Best buys and other recommended interventions for the prevention and control of noncommunicable diseases, Updated (2017) appendix 3 of the global action plan for the prevention and control of noncommunicable diseases 2013-2020, LINK  
+    ** Work in collaboration with the World Health Organization (WHO) and Avenir Health  
+    ** Informed: World Health Organization, Cancer Interventions Technical Briefing For The Updated (2017) Appendix 3 Of The Global Action Plan For The  Prevention And Control Of Noncommunicable Diseases 2013-2020, LINK*  
+     ** Inofrmed: World Health Organization, Best buys and other recommended interventions for the prevention and control of noncommunicable diseases, Updated (2017) appendix 3 of the global action plan for the prevention and control of noncommunicable diseases 2013-2020, LINK    
 
 * Gopalappa, C., Farnham, P.G., Chen, Y-H., and Sansom, S.L. Combinations of interventions to achieve a national HIV incidence reduction goal: insights from an agent-based model. AIDS, November 28, 2017 - Volume 31 - Issue 18 - p 2533 to 2539 LINK 
 
