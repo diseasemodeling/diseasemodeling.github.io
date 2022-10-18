@@ -1,3 +1,4 @@
+# [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 
 ## Faculty/ Lab PI
 
