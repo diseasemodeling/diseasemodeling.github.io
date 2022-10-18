@@ -1,3 +1,6 @@
+## PUBLICATIONS 
+* Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Rsearch Methodology (Accepted)
+
 * Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: 10.3934/mbe.2021380, LINK
 
     ** Finalist for student best paper poster competition, SMDM, 2018
