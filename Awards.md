@@ -17,7 +17,7 @@
 * Funding: NIH R01AI127236 (PI: Chaitra Gopalappa; Collaborators: CDC) for developing new models for HIV, July 2017 LINK
 * Funding: WHO (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
 
-STUDENT NEWS
+### STUDENT NEWS
 *   Hanisha Tatapudi joines Merck, 2022
 *   Nazanin joins Harvard medical school as post-doctoral fellow, 2022 
 *   Dennish Hofmann accepts NSF NRT trainee fellowship/PhD student position at WPI, to start in Fall 2021
