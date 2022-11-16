@@ -10,10 +10,9 @@ Dr. Chaitra Gopalappa, PhD
 
 ## Graduate Students
 * Xinmeng Zhao,  PhD Student
-
 * Amir Koshegbal, MS student
-
 * Iman Khajepour, PhD student
+* Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
 
 ## Undergraduate students
 * Ryanne McKenna
@@ -47,6 +46,7 @@ GRADUATE STUDENTS
 *   2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics
 
 *   2016 Jiachen Guo, MS in Mechanical Engineering – Parameterization of cancer progression models in two WHO world regions, using two-step Markov process methodology
+
 
 UG HONORS THESIS
 * 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)
