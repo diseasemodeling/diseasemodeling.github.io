@@ -1,6 +1,6 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ## PUBLICATIONS 
-* 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Rsearch Methodology (Accepted)
+* 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Rsearch Methodology, 22(1):304.doi: 10.1186/s12874-022-01756-w 
 
 * 2021 Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: 10.3934/mbe.2021380, LINK  
     ** _Finalist for student best paper poster competition, SMDM, 2018_  
