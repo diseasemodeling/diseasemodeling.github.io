@@ -1,4 +1,7 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
+## PRE-PRINT 
+* Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. medRxiv; 2022. DOI:10.1101/2022.10.18.22281063
+
 ## PUBLICATIONS 
 * 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: 10.1186/s12874-022-01756-w 
 
