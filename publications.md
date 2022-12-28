@@ -1,8 +1,12 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ## PRE-PRINT 
 * Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. medRxiv; 2022. DOI:10.1101/2022.10.18.22281063
+*  Xinmeng Zhao, Chaitra Gopalappa, Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique
+medRxiv 2022.12.25.22283941; doi: https://doi.org/10.1101/2022.12.25.22283941 
 
 ## PUBLICATIONS 
+* 2023 Chaitra Gopalappa, Hari Balasubramanian, Peter J. Haas, A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2022.12.003.
+
 * 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: 10.1186/s12874-022-01756-w 
 
 * 2021 Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: 10.3934/mbe.2021380, LINK  
