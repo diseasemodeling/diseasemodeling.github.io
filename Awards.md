@@ -20,7 +20,7 @@
 * 2015-2016 Funding: WHO (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
 
 ### STUDENT NEWS
-*   Hanisha Tatapudi joines Merck, 2022
+*   Hanisha Tatapudi joins Merck as Data Scientist, 2022
 *   Nazanin joins Harvard medical school as post-doctoral fellow, 2022 
 *   Dennish Hofmann accepts NSF NRT trainee fellowship/PhD student position at WPI, to start in Fall 2021
 *   Dennis Hofmann start internship, Summer 2021
