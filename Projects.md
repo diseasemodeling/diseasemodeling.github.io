@@ -23,4 +23,5 @@ National and global public health strategic plans and guidelines inform allocati
 ## Multi-agent reinforcement learning for infectious disease models
 In the context of infectious diseases, intervention decisions are typically made by multiple independent agents, e.g., state or national jurisdictions, cooperatively or non-cooperatively, but in an environment (diseases) that naturally involves cross-jurisdictional interactions. In an optimization context, infectious disease models typically do not consider these dynamics or simulate single jursidictions in isolation ignoring jurisdictional interactions, or conduct specific scenario based evaluations in a non-optimization context. Though recent advances in RL such as in multi-agent reinforcement learning would be suitable to address this gap, MARL algorithms are computationally impractical to implement in a national or global context as computational complexity grows exponentially with number of agents (jursidictions). We aim to develop suitable alternative algorithms.
 
-### [PREVIOUS WORK](https://blogs.umass.edu/chaitrag/)  
+
+## [PREVIOUS WORK](https://blogs.umass.edu/chaitrag/)  
