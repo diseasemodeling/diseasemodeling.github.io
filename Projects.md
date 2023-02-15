@@ -1,7 +1,7 @@
 
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 
-# Recent and ongoing projects (see [Publications](Publications.md) for full list)  
+# Recent and ongoing projects (corresponding publications [HERE](Publications.md) )  
 ## Network generation methods for large-scale simulation models
 Agent-based network models(ABNM) are suitable for simulating individual-level dynamics of infectious diseases. However, as ABNM simulates a scaled-version of the full population, consisting of all infected and susceptible persons, they are computationally infeasible for studying certain questions in low prevalence, such as during new or re-emerging disease outbreaks, or slower spreading diseases such as HIV, Hepatistis C, or Tuberculosis. For e.g., simulating 100,000 nodes to represent the U.S. population would generate only 400 people with HIV. We developed an Evolving Contact Network Algorithm, combining  network theories with machine learning, to simulate networks of only infected persons and immediate contacts and thus dynamically evolve the network as the infection spreads. 
 
