@@ -1,5 +1,5 @@
 
-# [Go to main page: Disease Modeling Lab](https://diseasemodeling.github.io)
+# [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 
 # Summary of ongoing projects (see [Publications](Publications.md) for full list)  
 ## Network generation methods for large-scale simulation models
