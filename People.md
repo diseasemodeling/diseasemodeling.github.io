@@ -11,56 +11,56 @@ Dr. Chaitra Gopalappa, PhD
 ## Graduate Students
 * Xinmeng Zhao,  PhD Student
 * Amir Koshegbal, MS student
-* Iman Khajepour, PhD student
 * Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
 
 ## Undergraduate students
 * Ryanne McKenna
+* Caleb Smith
 
 ## ALUMNI
 
 GRADUATE STUDENTS
 
-*   2021 Hanisha Tatapudi, PhD   
-     Joined Merck    
-*   2021 Sonza Singh,  MS, Industrial Engineering
+*   2021 Hanisha Tatapudi, PhD,[LinkedIn](https://www.linkedin.com/in/hanisha-tatapudi/)    
+     [Data scientist at Merck] 
+*   2021 Sonza Singh,  MS, Industrial Engineering [LinkedIn](https://www.linkedin.com/in/sonzasingh/)  
+     [IE/Software engineer iCIMS]  
+     a. Best paper award, Institute for Industrial and Systems Engineers (IISE), Simulation and Modeling track, 2021 
 
-*   2021 Nazanin Khatami, PhD, Industrial Engineering   
-       Joined Harvard Medical school as post doc
-       
-*   2020 Shifali Shifali, MS in IEOR   
-        Interned at Super Brush as Quality Assurance intern, Summer 2019  
-        Employed at Amazon, 2020  
-         
-*   2020 Ron Mallach, PhD student in IEOR, Summer research, WebApp for COVID-19 model  
+*   2021 Nazanin Khatami, PhD, Industrial Engineering [LinkedIn](https://www.linkedin.com/in/skhatami/)  
+      [Post-doc at Harvard Medical school]  
+     a. Finalist, student best paper poster competition, SMDM, 2018
+     
+*   2020 Shifali Shifali, MS in IEOR [LinkeIn](https://www.linkedin.com/in/shifali1027/)  
+       [Quality Assurance intern at Super Brush, Summer 2019; At Amazon, 2020]
 
-*   2019 Buyannemekh Munkhbat, MS in IEOR, Computational model for predicting epidemic spread using the evolving contact network algorithm  
-        Interned at Stanford University, Summer 2018  
-        Employed at Insight Data Engineering Fellowship Program, June 2019  
-        Employment: Machine learning engineer, Vanguard, 2019  
+*   2020 Ron Mallach, PhD student in IEOR, Summer research, WebApp for COVID-19 model [LinkedIn](https://www.linkedin.com/in/ron-mallach-3b7910132/)
 
-*   2019 Vijeta Deshpande, MS in IEOR  
-        Interned at Avenir Health, Decision analytic modeling for non-communicable diseases, Fall 2018  
-        Employed as mathematical modeler at the Massachusetts General Hospital, June 2019  
+*   2019 Buyannemekh Munkhbat, MS in IEOR, [LinkedIn](https://www.linkedin.com/in/buyan-munkhbat/)    
+     [Interned at Stanford University, Summer 2018][Insight Data Engineering Fellowship Program, June 2019][Machine learning engineer, Vanguard, 2019]   
+     a. Finalist, best paper award, INFORMS, UG Operations Research track, 2018
 
-*   2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics
+*   2019 Vijeta Deshpande, MS in IEOR  [Interned at Avenir Health, Decision analytic modeling for non-communicable diseases, Fall 2018] [Mathematical modeler at the Massachusetts General Hospital, June 2019] [LinkedIn](https://www.linkedin.com/in/vijeta-deshpande/) 
+
+*   2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics [LinkedIn](https://www.linkedin.com/in/rahul-handa-8956a048/)
 
 *   2016 Jiachen Guo, MS in Mechanical Engineering – Parameterization of cancer progression models in two WHO world regions, using two-step Markov process methodology
 
 
 UG HONORS THESIS
-* 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)
+* 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)[LinkedIn]()
 
 * 2020-2021 Dennis Hofmann, Informatics, 
 Thesis title: Evolving contact network algorithm for the development of transmission network for HIV and injecting-drug use among homeless population in the US, Spring 2021 (chair)  
  a.	Employment: PhD student/NSF NRT Trainee, Worcester Polytechnic University   
 
-* 2018-2019 Rebecca Castonguay, Thesis title: Predicting Degree Correlations Along Scale- Free Network Contagion Paths for use in the Evolving Contact Network Algorithm (chair)  
+* 2018-2019 Rebecca Castonguay, Thesis title: Predicting Degree Correlations Along Scale- Free Network Contagion Paths for use in the Evolving Contact Network Algorithm (chair) [LinkedIn](https://www.linkedin.com/in/rebecca-castonguay-171530131/)
   a.	Award: UMass Rising Researcher Award, 2019  
   b.	Award: MIE best student award, 2019  
+  c. Finalist, best paper award, INFORMS, UG Operations Research track, 2018
 
-* 2017-2018 Matthew Eden, Mechanical Engineering/ Mathematics, Thesis title: Simulating the spread of HIV in America’s drug-use  population (chair)  
-  a.	Award: Finalist for best undergraduate Operations Research paper award, INFORMS Annual Meeting, Phoenix AZ, 2018  
+* 2017-2018 Matthew Eden, Mechanical Engineering/ Mathematics, Thesis title: Simulating the spread of HIV in America’s drug-use  population (chair)[LInkedIn](https://www.linkedin.com/in/matthew-eden96/)  
+  a.	Award: Finalist, best paper award, INFORMS, UG Operations Research track, 2018 
   b.	Employment: PhD student/RA, Northeastern University  
 
 
