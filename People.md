@@ -40,7 +40,8 @@ GRADUATE STUDENTS
      [Interned at Stanford University, Summer 2018][Insight Data Engineering Fellowship Program, June 2019][Machine learning engineer, Vanguard, 2019]   
      a. Finalist, best paper award, INFORMS, UG Operations Research track, 2018
 
-*   2019 Vijeta Deshpande, MS in IEOR  [Interned at Avenir Health, Decision analytic modeling for non-communicable diseases, Fall 2018] [Mathematical modeler at the Massachusetts General Hospital, June 2019] [LinkedIn](https://www.linkedin.com/in/vijeta-deshpande/) 
+*   2019 Vijeta Deshpande, MS in IEOR  [LinkedIn](https://www.linkedin.com/in/vijeta-deshpande/)
+     [Interned at Avenir Health, Decision analytic modeling for non-communicable diseases, Fall 2018] [Mathematical modeler at the Massachusetts General          Hospital, June 2019]    
 
 *   2018 Rahul Handa, MS in Computer Science – Visualization tools for large scale simulation metrics [LinkedIn](https://www.linkedin.com/in/rahul-handa-8956a048/)
 
