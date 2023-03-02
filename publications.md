@@ -7,16 +7,16 @@ medRxiv 2022.12.25.22283941; doi: https://doi.org/10.1101/2022.12.25.22283941
 ## PUBLICATIONS 
 * 2023 Chaitra Gopalappa, Hari Balasubramanian, Peter J. Haas, A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2022.12.003.
 
-* 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: [10.1186/s12874-022-01756-w](10.1186/s12874-022-01756-w)
+* 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: [10.1186/s12874-022-01756-w](doi:10.1186/s12874-022-01756-w)
 
-* 2021 Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: [10.3934/mbe.2021380](10.3934/mbe.2021380)  
+* 2021 Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: [10.3934/mbe.2021380](doi:10.3934/mbe.2021380)  
     ** _Finalist for student best paper poster competition, SMDM, 2018_  
 * 2021 Zhao, X., Tatapudi, H., Corey, G., Gopalappa, C., Threshold analyses on combinations of testing, population size, and vaccine coverage for COVID-19 control in a university setting, PLoSOne, 2021 [https://doi.org/10.1371/journal.pone.0255864](https://doi.org/10.1371/journal.pone.0255864)
 
 * 2021 Eden*, M., Castonguay*, R., Munkbat*, B., Balasubramanian, H., Gopalappa, C., Agent-based evolving network modeling: a new simulation method for modeling low prevalence infectious diseases, Health Care Management Science, 24, 623–639 (2021). [https://doi.org/10.1007/s10729-021-09558-0](https://doi.org/10.1007/s10729-021-09558-0)     
     ** _Finalist best paper award, INFORMS, Operations Research track, 2018_
 
-* 2021 Singh*, S., France, A. M.,  Chen, Y-H, Farnham, P. G., Oster, A. M., Gopalappa, C., Progression and  Transmission of HIV (PATH4.0): A new agent-based evolving network simulation  for modeling HIV transmission clusters; Mathematical Biosciences and Engineering, 18 (3), 2021, doi: [10.3934/mbe.2021109](10.3934/mbe.2021109)    
+* 2021 Singh*, S., France, A. M.,  Chen, Y-H, Farnham, P. G., Oster, A. M., Gopalappa, C., Progression and  Transmission of HIV (PATH4.0): A new agent-based evolving network simulation  for modeling HIV transmission clusters; Mathematical Biosciences and Engineering, 18 (3), 2021, doi: [10.3934/mbe.2021109](doi:10.3934/mbe.2021109)    
    ** _Best paper award, Institute for Industrial and Systems Engineers (IISE), Simulation and Modeling track, 2021 
    **  Work in collaboration with the Centers for Disease Control and Prevention_
 
