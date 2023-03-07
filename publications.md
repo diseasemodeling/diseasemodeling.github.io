@@ -1,6 +1,6 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ## PRE-PRINT (In journal review) 
-* Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [doi:https://doi.org/10.1101/2023.03.01.23286591](https://doi.org/10.1101/2023.03.01.23286591)
+* Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [https://doi.org/10.1101/2023.03.01.23286591](https://www.medrxiv.org/content/10.1101/2023.03.01.23286591v1)
 
 *  Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. (In journal review) medRxiv; 2022. [doi: https://doi.org/10.1101/2022.10.18.22281063](https://doi.org/10.1101/2022.10.18.22281063)
 
