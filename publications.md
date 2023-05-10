@@ -6,12 +6,12 @@
 
 *  Xinmeng Zhao, Chaitra Gopalappa, Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique (In journal review) medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941) 
 
-*  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review for CDC clearance, 2023
+*  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review, 2023
 
 ## PUBLICATIONS 
-* 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS (In Press)
+* 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
 
-* 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2022.12.003.
+* 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
 * 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: [10.1186/s12874-022-01756-w](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01756-w)
 
