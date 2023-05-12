@@ -49,13 +49,16 @@ GRADUATE STUDENTS
 
 
 UG HONORS THESIS
+* 2022-2023, Ryanne McKenna, ICONS thesis,Evaluating the associations between the contraceptive pill and depression  
+  a. IE Overall Excellence Award, MIE, UMAss
+
 * 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)[LinkedIn]()
 
 * 2020-2021 Dennis Hofmann, Informatics, 
 Thesis title: Evolving contact network algorithm for the development of transmission network for HIV and injecting-drug use among homeless population in the US, Spring 2021 (chair)  
  a.	Employment: PhD student/NSF NRT Trainee, Worcester Polytechnic University   
 
-* 2018-2019 Rebecca Castonguay, Thesis title: Predicting Degree Correlations Along Scale- Free Network Contagion Paths for use in the Evolving Contact Network Algorithm (chair) [LinkedIn](https://www.linkedin.com/in/rebecca-castonguay-171530131/)
+* 2018-2019 Rebecca Castonguay, Thesis title: Predicting Degree Correlations Along Scale- Free Network Contagion Paths for use in the Evolving Contact Network Algorithm (chair) [LinkedIn](https://www.linkedin.com/in/rebecca-castonguay-171530131/)  
   a.	Award: UMass Rising Researcher Award, 2019  
   b.	Award: MIE best student award, 2019  
   c. Finalist, best paper award, INFORMS, UG Operations Research track, 2018
@@ -70,7 +73,9 @@ MIE UNDERGRADUATE INDEPENDENT STUDY
 
 *    Summer research 2021 Xinran (Lucy) Zhen
 
-*    Summer research - 2022- James Kalio
+*    Summer research - 2022- James Kalio  
+     IE Research star award, MIE, UMass
+
 *    Summer research 2020– Dennis Hofmann, Informatics, Model-based analysis of integrated care for injecting drug use and HIV among homeless
      
 *    Summer research 2020 – Nadia L’Bahy, Biology and Informatics, Model-based analysis of integrated care for mental health and HIV Honors thesis project, 2020; Summer research project, 2020
