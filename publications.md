@@ -9,7 +9,8 @@
 *  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review, 2023
 
 ## PUBLICATIONS 
-26. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
+
+1. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
 
 25. 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
@@ -79,4 +80,4 @@
     **_Institute of Industrial Engineers (IIE) Pritsker Doctoral Dissertation Award_
       
 1. 2009 Gopalappa, C., Das, T., Enkemann, S., and Eschrich, S., Removal of Hybridization and Scanning Noise from Microarrays, IEEE Transactions on Nanobioscience, 8(3), 2009
- 
+
