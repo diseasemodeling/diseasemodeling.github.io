@@ -6,9 +6,9 @@
 
 ## PUBLICATIONS 
 
-1. 2023 Xinmeng Zhao, Chaitra Gopalappa, Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, In-print PLoSOne, medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941)
+1. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, In-print PLoSOne, medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941)
    
-3. 2023 Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
+3. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
    
 4. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
 
