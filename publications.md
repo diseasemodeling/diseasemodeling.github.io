@@ -1,16 +1,16 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ## PRE-PRINT (In journal review) 
-* Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [https://doi.org/10.1101/2023.03.01.23286591](https://www.medrxiv.org/content/10.1101/2023.03.01.23286591v1)
-
-*  Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. (In journal review) medRxiv; 2022. [doi: https://doi.org/10.1101/2022.10.18.22281063](https://doi.org/10.1101/2022.10.18.22281063)
-
-*  Xinmeng Zhao, Chaitra Gopalappa, Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique (In journal review) medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941) 
+* Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [https://doi.org/10.1101/2023.03.01.23286591](https://www.medrxiv.org/content/10.1101/2023.03.01.23286591v1) 
 
 *  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review, 2023
 
 ## PUBLICATIONS 
 
-1. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
+1. 2023 Xinmeng Zhao, Chaitra Gopalappa, Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, In-print PLoSOne, medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941)
+   
+3. 2023 Khatami SN, Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
+   
+4. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
 
 25. 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
