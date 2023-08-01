@@ -10,7 +10,7 @@ Simulation, networks, machine learning, reinforcement learning, simulation-based
 ### [PEOPLE](People.md)
 ### [RESEARCH PROJECTS](Projects.md) 
 ### [PUBLICATIONS](publications.md)    
-### [AWARDS](Awards.md)    
+### [AWARDS/FUNDING](Awards.md)    
 
 
 
