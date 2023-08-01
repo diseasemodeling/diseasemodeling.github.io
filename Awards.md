@@ -1,6 +1,9 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
+### [AWARDS AND RECOGNITION](#AWARDS)
+### [FUNDING](#FUNDING)
+### [STUDENT NEWS](#STUDENT-NEWS)
 
-### AWARDS AND RECOGNITION
+### <a id="AWARDS"></a>AWARDS AND RECOGNITION
 * 2023- Invited to present various model development works from my lab in multiple CDC internal meetings, DHP priority meetings with Division of HIV/AIDS Prevention leadership, cross-agency meetings with Housing and Urban Development (Professor Gopalappa, and students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
 * 2023- Invited to participate in joint CDC and NASTAD National Summit, National Cluster and Outbreak Detection and Response Implementation Learning Collaborative, Atlanta, June (Professor Gopalappa)
 * 2023- Public Interest Technology fellow, UMass Amherst
@@ -18,13 +21,13 @@
 * 2011- Pritsker Doctoral Dissertation Award, Institute of Industrial Engineers, 3rd Place (Chaitra Gopalappa)
 * 2010- Finalist, Pierskalla Best Paper Award, Institute for Operations Research and Management Sciences (INFORMS) (Chaitra Gopalappa)
 
-### FUNDING
+### <a id="FUNDING"></a>FUNDING
 * 2020-2021 Funding: CDC (PI: Chaitra Gopalappa) Cluster detection and response, August 2020
 * 2020-2023 Funding: NSF # 1915481 (PI: Chaitra Gopalappa; co-PI: Peter Haas, Hari Balasubramanian, Dean Robinson, Jag Chhatwal; Collaborators: CDC and WHO) for developing new methods for multi-disease modeling, July 2019 NSF LINK UMASS  CHC
 * 2017-2023 Funding: NIH R01AI127236 (PI: Chaitra Gopalappa; Collaborators: CDC) for developing new models for HIV, July 2017 LINK
 * 2015-2016 Funding: WHO (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
 
-### STUDENT NEWS
+### <a id="STUDENT-NEWS"></a>STUDENT NEWS
 *   Hanisha Tatapudi joins Merck as Data Scientist, 2022
 *   Nazanin joins Harvard medical school as post-doctoral fellow, 2022 
 *   Dennish Hofmann accepts NSF NRT trainee fellowship/PhD student position at WPI, to start in Fall 2021
