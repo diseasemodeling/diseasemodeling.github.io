@@ -1,12 +1,15 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ## PRE-PRINT (In journal review) 
+
+* Sharma, D., Shah, A., Gopalappa, C., A Multi-Agent Reinforcement Learning Framework for Evaluating the U.S. Ending the HIV Epidemic Plan, [https://arxiv.org/abs/2311.00855](https://arxiv.org/abs/2311.00855)
+
 * Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [https://doi.org/10.1101/2023.03.01.23286591](https://www.medrxiv.org/content/10.1101/2023.03.01.23286591v1) 
 
 *  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review, 2023
 
 ## PUBLICATIONS 
 
-1. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, In-print PLoSOne, medRxiv 2022.12.25.22283941; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1101/2022.12.25.22283941)
+1. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
    
 3. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
    
