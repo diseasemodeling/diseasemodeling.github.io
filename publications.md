@@ -5,26 +5,26 @@
 
 * Gopalappa, C. and Khoshegbhal, A. Mechanistic modeling of social conditions into disease predictions for public health intervention-analyses: application to HIV, (In journal review) Preprint, 2023, [https://doi.org/10.1101/2023.03.01.23286591](https://www.medrxiv.org/content/10.1101/2023.03.01.23286591v1) 
 
-*  France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” In review, 2023
-
 ## PUBLICATIONS 
 
-1. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
+1. 2024 France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” JAIDS, InPrint, 2024
+
+2. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
    
 3. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
    
-4. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [0.1097/QAD.0000000000003536](0.1097/QAD.0000000000003536)
+4. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [10.1097/QAD.0000000000003536](https://doi.org/10.1097/QAD.0000000000003536)
 
 25. 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
 24. 2022 Tatapudi, H. and Gopalappa, C., Evaluating the sensitivity of jurisdictional-heterogeneity and jurisdictional-mixing in national-level HIV prevention analyses: Context of the U.S. Ending the HIV Epidemic goal, BMC Medical Research Methodology, 22(1):304.doi: [10.1186/s12874-022-01756-w](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01756-w)
 
 23. 2021 Khatami, N., and Gopalappa, C., A reinforcement learning model to inform optimal decision paths for HIV elimination, Mathematical Biosciences and Engineering, Volume 18, Issue 6: 7666-7684, 2021. doi: [10.3934/mbe.2021380](https://www.aimspress.com/article/doi/10.3934/mbe.2021380)  
-    ** _Finalist for student best paper poster competition, SMDM, 2018_  
+    ** _Finalist for student best paper poster competition, SMDM  
 22. 2021 Zhao, X., Tatapudi, H., Corey, G., Gopalappa, C., Threshold analyses on combinations of testing, population size, and vaccine coverage for COVID-19 control in a university setting, PLoSOne, 2021 [https://doi.org/10.1371/journal.pone.0255864](https://doi.org/10.1371/journal.pone.0255864)
 
 21. 2021 Eden*, M., Castonguay*, R., Munkbat*, B., Balasubramanian, H., Gopalappa, C., Agent-based evolving network modeling: a new simulation method for modeling low prevalence infectious diseases, Health Care Management Science, 24, 623–639 (2021). [https://doi.org/10.1007/s10729-021-09558-0](https://doi.org/10.1007/s10729-021-09558-0)     
-    ** _Finalist best paper award, INFORMS, Operations Research track, 2018_
+    ** _Finalist best paper award, INFORMS, Operations Research track
 
 20. 2021 Singh*, S., France, A. M.,  Chen, Y-H, Farnham, P. G., Oster, A. M., Gopalappa, C., Progression and  Transmission of HIV (PATH4.0): A new agent-based evolving network simulation  for modeling HIV transmission clusters; Mathematical Biosciences and Engineering, 18 (3), 2021, doi: [10.3934/mbe.2021109](https://www.aimspress.com/article/doi/10.3934/mbe.2021109)    
    ** _Best paper award, Institute for Industrial and Systems Engineers (IISE), Simulation and Modeling track, 2021 
