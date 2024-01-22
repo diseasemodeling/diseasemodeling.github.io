@@ -23,20 +23,20 @@
     ** _Finalist for student best paper poster competition, SMDM  
 22. 2021 Zhao, X., Tatapudi, H., Corey, G., Gopalappa, C., Threshold analyses on combinations of testing, population size, and vaccine coverage for COVID-19 control in a university setting, PLoSOne, 2021 [https://doi.org/10.1371/journal.pone.0255864](https://doi.org/10.1371/journal.pone.0255864)
 
-21. 2021 Eden*, M., Castonguay*, R., Munkbat*, B., Balasubramanian, H., Gopalappa, C., Agent-based evolving network modeling: a new simulation method for modeling low prevalence infectious diseases, Health Care Management Science, 24, 623–639 (2021). [https://doi.org/10.1007/s10729-021-09558-0](https://doi.org/10.1007/s10729-021-09558-0)     
+21. 2021 Eden, M., Castonguay, R., Munkbat, B., Balasubramanian, H., Gopalappa, C., Agent-based evolving network modeling: a new simulation method for modeling low prevalence infectious diseases, Health Care Management Science, 24, 623–639 (2021). [https://doi.org/10.1007/s10729-021-09558-0](https://doi.org/10.1007/s10729-021-09558-0)     
     ** _Finalist best paper award, INFORMS, Operations Research track
 
-20. 2021 Singh*, S., France, A. M.,  Chen, Y-H, Farnham, P. G., Oster, A. M., Gopalappa, C., Progression and  Transmission of HIV (PATH4.0): A new agent-based evolving network simulation  for modeling HIV transmission clusters; Mathematical Biosciences and Engineering, 18 (3), 2021, doi: [10.3934/mbe.2021109](https://www.aimspress.com/article/doi/10.3934/mbe.2021109)    
+20. 2021 Singh, S., France, A. M.,  Chen, Y-H, Farnham, P. G., Oster, A. M., Gopalappa, C., Progression and  Transmission of HIV (PATH4.0): A new agent-based evolving network simulation  for modeling HIV transmission clusters; Mathematical Biosciences and Engineering, 18 (3), 2021, doi: [10.3934/mbe.2021109](https://www.aimspress.com/article/doi/10.3934/mbe.2021109)    
    ** _Best paper award, Institute for Industrial and Systems Engineers (IISE), Simulation and Modeling track, 2021 
    **  Work in collaboration with the Centers for Disease Control and Prevention_
 
-19. 2020 Shifali Bansal*, BS, Vijeta Deshpande*, MS, Xinmeng Zhao, BS, Jeremy A. Lauer, PhD, Filip  Meheus, PhD, André Ilbawi, MD, Chaitra Gopalappa1, PhD, Analysis of mammography screening schedules under varying resource constraints for planning breast cancer control programs in low- and middle- income countries: a mathematical study, Medical Decision Making, Vol. 40(3), 2020 PDF LINK  
+19. 2020 Shifali Bansal, BS, Vijeta Deshpande, MS, Xinmeng Zhao, BS, Jeremy A. Lauer, PhD, Filip  Meheus, PhD, André Ilbawi, MD, Chaitra Gopalappa1, PhD, Analysis of mammography screening schedules under varying resource constraints for planning breast cancer control programs in low- and middle- income countries: a mathematical study, Medical Decision Making, Vol. 40(3), 2020 PDF LINK  
   **  _Work in collaboration with the World Health Organization (WHO) and Institute for Research on Cancer (IARC)_
 
  18. 2018 Ambinintsoa H. Ralaidovy,  Chaitra  Gopalappa,  André  Ilbawi,  Carel  Pretorius and  Jeremy A. Lauer, Cost-effective interventions for breast cancer, cervical cancer, and colorectal cancer: new results from WHO-CHOICE, Cost Effectiveness and Resource Allocation, 18 (38), 2018 LINK LINK   
     ** _Work in collaboration with the World Health Organization (WHO)_
 
- 17. 2018 Gopalappa, C., Guo*, J., Meckoni*, P., Munkhbat*, B., Pretorius, C., Lauer, J., Ilbawi, A., Bertram, M., A two-step Markov processes approach for parameterization of cancer state-transition models for low- and middle- income countries, Medical Decision Making, Vol. 38(4) 520–530, 2018, PDF technical-suppl LINK  
+ 17. 2018 Gopalappa, C., Guo, J., Meckoni, P., Munkhbat*, B., Pretorius, C., Lauer, J., Ilbawi, A., Bertram, M., A two-step Markov processes approach for parameterization of cancer state-transition models for low- and middle- income countries, Medical Decision Making, Vol. 38(4) 520–530, 2018, PDF technical-suppl LINK  
     _** Work in collaboration with the World Health Organization (WHO) and Avenir Health  
     ** Informed: World Health Organization, Cancer Interventions Technical Briefing For The Updated (2017) Appendix 3 Of The Global Action Plan For The  Prevention And Control Of Noncommunicable Diseases 2013-2020, LINK*  
      ** Informed: World Health Organization, Best buys and other recommended interventions for the prevention and control of noncommunicable diseases, Updated (2017) appendix 3 of the global action plan for the prevention and control of noncommunicable diseases 2013-2020, LINK_  
