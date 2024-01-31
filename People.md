@@ -9,13 +9,13 @@ Dr. Chaitra Gopalappa, PhD
      chaitrag(at)umass(dot)edu  
 
 ## Graduate Students
-* Xinmeng Zhao,  PhD Student
+* Sonza Singh, PhD student
+* Xinmeng Zhao,  PhD candidate
 * Amir Koshegbal, MS student
 * Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
 
 ## Undergraduate students
-* Ryanne McKenna
-* Caleb Smith
+* Riley Burnham
 
 ## ALUMNI
 
