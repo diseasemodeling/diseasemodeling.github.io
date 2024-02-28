@@ -13,9 +13,13 @@ Dr. Chaitra Gopalappa, PhD
 * Xinmeng Zhao,  PhD candidate
 * Amir Koshegbal, MS student
 * Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
+* Tarunvel Venugopal Santhamani, MS
+* Hemachandar Istalingam, MS student 
 
 ## Undergraduate students
-* Riley Burnham
+* Riley Burnham, Biomedical engineering
+* Yudai Satake, Electrical and computer science engineering
+* Mishti Kalpesh Gala, Electrical and computer science engineering
 
 ## ALUMNI
 
