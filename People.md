@@ -18,7 +18,6 @@ Dr. Chaitra Gopalappa, PhD
 * Hemachandar Istalingam, MS (co-advised with Dr. Qian Zhao)
 
 ## Undergraduate students
-* Riley Burnham, Biomedical engineering
 * Yudai Satake, Electrical and computer science engineering
 * Mishti Kalpesh Gala, Electrical and computer science engineering 
 * Ojas Uday Koratkar, Industrial engineering
@@ -57,7 +56,8 @@ GRADUATE STUDENTS
 
 
 UG HONORS THESIS
-* 2022-2023, Ryanne McKenna, ICONS thesis,Evaluating the associations between the contraceptive pill and depression  
+*  2023-2024 Riley Burnham, Biomedical engineering, Data Analytics for Associations between HIV-risk and Social Determinants in the Transgender Population
+*  2022-2023, Ryanne McKenna, ICONS thesis,Evaluating the associations between the contraceptive pill and depression  
   a. IE Overall Excellence Award, MIE, UMAss
 
 * 2021-2022, Lucy Zhen, Mathematics, Mt. Holyoke College, Multi-jurisdictional model of COVID-19 (co-chair)[LinkedIn]()
