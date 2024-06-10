@@ -11,15 +11,19 @@ Dr. Chaitra Gopalappa, PhD
 ## Graduate Students
 * Sonza Singh, PhD student
 * Xinmeng Zhao,  PhD candidate
-* Amir Koshegbal, MS student
+* Amir Koshegbal, PhD student
+* Mohammad Derakshi, PhD student
 * Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
-* Tarunvel Venugopal Santhamani, MS
-* Hemachandar Istalingam, MS student 
+* Tarunvel Venugopal Santhamani, MS (co-advised with Dr. Qian Zhao)
+* Hemachandar Istalingam, MS (co-advised with Dr. Qian Zhao)
 
 ## Undergraduate students
 * Riley Burnham, Biomedical engineering
 * Yudai Satake, Electrical and computer science engineering
-* Mishti Kalpesh Gala, Electrical and computer science engineering
+* Mishti Kalpesh Gala, Electrical and computer science engineering 
+* Ojas Uday Koratkar, Industrial engineering
+* David Johnson Ganta, Mathematics (co-advised with Dr. Qian Zhao)
+* Nikhila Peravali, Computer Science and Mathematics (co-advised with Dr. Qian Zhao)
 
 ## ALUMNI
 
