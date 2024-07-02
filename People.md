@@ -5,7 +5,11 @@
 Dr. Chaitra Gopalappa, PhD   
      Associate Professor, Industrial Engineering, Department of Mechanical and Industrial Engineering, University of Massachusetts, Amherst  
      Associate Professor, Commonwealth Honors College, University of Massachusetts, Amherst   
-     Guest Researcher, Centers for Disease Control and Prevention  
+     Guest Researcher, Centers for Disease Control and Prevention 
+     Associate Editor, Healthcare Management Science 
+     Associate Editor, IISE Transactions on Healthcare Systems Engineering
+     VP of meetings, Women in OR/MS, INFORMS (Institute for Operations Research and Management Science)
+     Board, Modeling and Simulation Division, IISE (Institiute for Industrial and Systems Engineers)
      chaitrag(at)umass(dot)edu  
 
 ## Graduate Students
