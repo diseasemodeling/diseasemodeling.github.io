@@ -4,10 +4,13 @@
 ### [STUDENT NEWS](#STUDENT-NEWS)
 
 ### <a id="AWARDS"></a>AWARDS AND RECOGNITION
-* 2023- Invited to present various model development works from my lab in multiple CDC internal meetings, DHP priority meetings with Division of HIV/AIDS Prevention leadership, cross-agency meetings with Housing and Urban Development (Professor Gopalappa, and students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
-* 2023- Invited to participate in joint CDC and NASTAD National Summit, National Cluster and Outbreak Detection and Response Implementation Learning Collaborative, Atlanta, June (Professor Gopalappa)
-* 2023- Invited to present at Women in Data Science, Central Massachusetts @ WPI, March (Professor Gopalappa)
-* 2022- Guest research appointment, Centers for Disease Control and Prevention (Professor Gopalappa)
+* 2024- STRIDE faculty fellowship, UMass Amherst
+* 2023- ADVANCE Faculty Peer Mentoring Award, UMass Amherst
+* 2023- Plenary talk, Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India
+* 2022- current- Invited to present model development works at multiple internal CDC and cross-agency meetings (Professor Gopalappa, and students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
+* 2024, 2023- Invited to participate in joint CDC and NASTAD National Summit, National Cluster and Outbreak Detection and Response Implementation Learning Collaborative, Atlanta, June (Professor Gopalappa)
+* 2023- Panelist, Women in Data Science, Central Massachusetts @ WPI, March (Professor Gopalappa)
+* 2022- Appointed as Guest Researcher, Centers for Disease Control and Prevention (Professor Gopalappa)
 * 2021- Invited to present at Turning Research Into Practice (TRIP), CDC’s center-wide seminar (Professor Gopalappa)
 * 2021- Best paper award, IISE Modeling and Simulation Division -winner, IISE annual meeting (virtual under COVID-19), with student first author (*Sonza Singh).
 * 2020- Engineering Racial Justice Curriculum Challenge- College of Engineering, UMAss Amherst, Fall 2020 (Professor Gopalappa)
@@ -21,6 +24,7 @@
 * 2010- Finalist, Pierskalla Best Paper Award, Institute for Operations Research and Management Sciences (INFORMS) (Chaitra Gopalappa)
 
 ### <a id="FUNDING"></a>FUNDING
+* 2024- Center for Multi-Sectoral Decision Analytics for Health and Social Equity and Justice  (PI: Gopalappa; co-PI: Kalpana Poudel-Tandukar, Song Gao)
 * 2023-2024 Public Interest Technology fellow, UMass Amherst (PI: Muge Capan, Co-PI Chaitra Gopalappa, Jessica Boakye)
 * 2020-2021 Funding: CDC $127K (PI: Chaitra Gopalappa) Cluster detection and response, August 2020
 * 2020-2023 Funding: NSF # 1915481 $1.2 million (PI: Chaitra Gopalappa; co-PI: Peter Haas, Hari Balasubramanian, Dean Robinson, Jag Chhatwal; Collaborators: CDC and WHO) for developing new methods for multi-disease modeling, July 2019 NSF LINK UMASS  CHC
