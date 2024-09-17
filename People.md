@@ -16,7 +16,6 @@ Dr. Chaitra Gopalappa, PhD
 
 ## Graduate Students
 * Sonza Singh, PhD student
-* Xinmeng Zhao,  PhD candidate
 * Amir Koshegbal, PhD student
 * Mohammad Derakshi, PhD student
 * Dinesh Sharma, PhD student (co-advised with Dr. Ankit Shah, USF)
@@ -32,9 +31,11 @@ Dr. Chaitra Gopalappa, PhD
 
 ## ALUMNI
 
-GRADUATE STUDENTS
+GRADUATE STUDENTS (Job placement at graduation)
 
-*   2021 Hanisha Tatapudi, PhD,[LinkedIn](https://www.linkedin.com/in/hanisha-tatapudi/)    
+*  Xinmeng Zhao, PhD,
+   Prevention Effectiveness Fellow, U.S. Centers for Disease Control and Prevention 
+* 2021 Hanisha Tatapudi, PhD,[LinkedIn](https://www.linkedin.com/in/hanisha-tatapudi/)    
      [Data scientist at Merck] 
 *   2021 Sonza Singh,  MS, Industrial Engineering [LinkedIn](https://www.linkedin.com/in/sonzasingh/)  
      [IE/Software engineer iCIMS]  
