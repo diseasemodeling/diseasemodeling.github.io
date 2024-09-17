@@ -4,9 +4,9 @@
 
 Dr. Chaitra Gopalappa, PhD   
      * Associate Professor, Mechanical and Industrial Engineering, University of Massachusetts, Amherst  
-     * Associate Professor, Commonwealth Honors College, University of Massachusetts, Amherst 
-     * Honors Program Director, Commonwealth Honors College, University of Massachusetts, Amherst
-     * STRIDE Faculty Fellow, UMass
+     * Associate Professor, Commonwealth Honors College, University of Massachusetts, Amherst   
+     * Honors Program Director, Commonwealth Honors College, University of Massachusetts, Amherst  
+     * STRIDE Faculty Fellow, UMass  
      * Guest Researcher, U.S. Centers for Disease Control and Prevention   
      * Associate Editor, Healthcare Management Science   
      * Associate Editor, IISE Transactions on Healthcare Systems Engineering  
