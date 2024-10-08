@@ -7,13 +7,15 @@
 
 ## PUBLICATIONS 
 
-1. 2024 France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” JAIDS,  95(4):p 355-361, April 1, 2024. | DOI: 10.1097/QAI.0000000000003367
+1. 2024  Viguerie, A.,  Gopalappa, C., Lyles, C.M., Farnham, P.G., The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model, Epidemics, Volume 49, December 2024, https://doi.org/10.1016/j.epidem.2024.100796
+2. 2024 France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” JAIDS,  95(4):p 355-361, April 1, 2024. | DOI: 10.1097/QAI.0000000000003367
 
-2. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
+3. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
    
-3. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
+4. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
    
-4. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [10.1097/QAD.0000000000003536](https://doi.org/10.1097/QAD.0000000000003536)
+5. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [10.1097/QAD.0000000000003536](https://doi.org/10.1097/QAD.0000000000003536)  
+   ** _Behavioral and Social Science Work Group (BSSWG) award for excellence in science_
 
 25. 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
