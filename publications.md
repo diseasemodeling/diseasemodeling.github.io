@@ -15,7 +15,7 @@
 4. 2023 Khatami S.N., Gopalappa C. Deep reinforcement learning framework for controlling infectious disease outbreaks in the context of multi-jurisdictions. Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 8: 14306-14326. doi: [10.3934/mbe.2023640](10.3934/mbe.2023640)
    
 5. 2023 Koenig, L., Khurana, N., Hafiz, Md I., Gopalappa, C., Farnham, P., Closing the gaps in the continuum of depression care for persons with HIV: modeling the impact on viral suppression in the United States, AIDS, 2023 Jun 1;37(7):1147-1156, doi: [10.1097/QAD.0000000000003536](https://doi.org/10.1097/QAD.0000000000003536)  
-   ** _Behavioral and Social Science Work Group (BSSWG) award for excellence in science_
+   ** Award for excellence in science from Behavioral and Social Science Work Group (BSSWG), Centers for Disease Control and Prevention_
 
 25. 2023 Gopalappa, C., Balasubramanian, H., and Haas, P.J., A new mixed agent-based network and compartmental simulation framework for joint modeling of related infectious diseases- application to sexually transmitted infections,Infectious Disease Modelling, Volume 8, Issue 1, 2023, Pages 84-100, ISSN 2468-0427, [https://doi.org/10.1016/j.idm.2022.12.003](https://doi.org/10.1016/j.idm.2022.12.003).
 
