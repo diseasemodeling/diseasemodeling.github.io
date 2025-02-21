@@ -9,7 +9,7 @@
    
 3. 2024  Viguerie, A.,  Gopalappa, C., Lyles, C.M., Farnham, P.G., The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model, Epidemics, Volume 49, December 2024, [https://doi.org/10.1016/j.epidem.2024.100796](https://doi.org/10.1016/j.epidem.2024.100796)
    
-5. 2024 France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” JAIDS,  95(4):p 355-361, April 1, 2024. | DOI: [10.1097/QAI.0000000000003367](10.1097/QAI.0000000000003367)
+5. 2024 France, A.M., Panneer, N., Farnham, P.G., Oster, A.M., Viguerie, A., and Gopalappa, C. “Extent and composition of molecular HIV sexual transmission clusters in a nationally representative simulation model indicate intervention opportunities,” JAIDS,  95(4):p 355-361, April 1, 2024. DOI: [10.1097/QAI.0000000000003367](10.1097/QAI.0000000000003367)
 
 6. 2023 Zhao, X., Gopalappa, C., Joint modeling HIV and HPV using a new hybrid agent-based network and compartmental simulation technique, PLoS ONE 18(11): e0288141. https://doi.org/10.1371/journal.pone.0288141; [doi:https://doi.org/10.1101/2022.12.25.22283941](https://doi.org/10.1371/journal.pone.0288141)
    
