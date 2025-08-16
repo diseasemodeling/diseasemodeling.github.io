@@ -3,12 +3,12 @@
 ### [FUNDING](#FUNDING)
 ### [STUDENT NEWS](#STUDENT-NEWS)
 
-### <a id="LAB AWARDS"></a>AWARDS AND RECOGNITION
-* 2024- STRIDE faculty fellowship (Gopalappa), UMass Amherst
-* 2024 - Lee B. Lusted student best paper award -finalist, Society for Medical Decision Making (Dinesh Sharma and Hanisha Tatapudi)
-* 2023- ADVANCE Faculty Peer Mentoring Award (Gopalappa), UMass Amherst
-* 2023- Plenary talk (Gopalappa), Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India
-* 2022- Invited to present model development works at multiple internal CDC and cross-agency meetings (Professor Gopalappa, and students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
+### <a id="AWARDS"></a> AWARDS AND RECOGNITION
+* 2024- STRIDE faculty fellowship (Gopalappa, Professor), UMass Amherst
+* 2024 - Lee B. Lusted student best paper award -finalist, Society for Medical Decision Making (Dinesh Sharma and Hanisha Tatapudi, PhD students)
+* 2023- ADVANCE Faculty Peer Mentoring Award (Gopalappa, Professor), UMass Amherst
+* 2023- Plenary talk (Gopalappa, Professor), Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India
+* 2022- Invited to present model development works at multiple internal CDC and cross-agency meetings (Professor Gopalappa and PhD students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
 * 2024, 2023- Invited to participate in joint CDC and NASTAD National Summit, National Cluster and Outbreak Detection and Response Implementation Learning Collaborative, Atlanta, June (Professor Gopalappa)
 * 2023- Panelist, Women in Data Science, Central Massachusetts @ WPI, March (Professor Gopalappa)
 * 2022- Appointed as Guest Researcher, Centers for Disease Control and Prevention (Professor Gopalappa)
