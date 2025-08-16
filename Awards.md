@@ -4,7 +4,8 @@
 ### [STUDENT NEWS](#STUDENT-NEWS)
 
 ### <a id="AWARDS"></a> AWARDS AND RECOGNITION
-* 2024- STRIDE faculty fellowship (Gopalappa, Professor), UMass Amherst
+* 2024 - Excellence in science award, Behavioral and Social Science Work Group (BSSWG), Centers for Disease Control and Prevention (Koenig et. al., AIDS, 2023)
+* 2024 - STRIDE faculty fellowship (Gopalappa, Professor), UMass Amherst
 * 2024 - Lee B. Lusted student best paper award -finalist, Society for Medical Decision Making (Dinesh Sharma and Hanisha Tatapudi, PhD students)
 * 2023- ADVANCE Faculty Peer Mentoring Award (Gopalappa, Professor), UMass Amherst
 * 2023- Plenary talk (Gopalappa, Professor), Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India
