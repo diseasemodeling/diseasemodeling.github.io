@@ -1,11 +1,10 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
-## PRE-PRINT (In journal review) 
-
-* Sharma, D., Shah, A., Gopalappa, C., A Multi-Agent Reinforcement Learning Framework for Evaluating the U.S. Ending the HIV Epidemic Plan, [https://arxiv.org/abs/2311.00855](https://arxiv.org/abs/2311.00855)
 
 ## PUBLICATIONS 
 
-1. 2024 Khosheghbal, A., Haas, P.J. & Gopalappa, C. Mechanistic modeling of social conditions in disease-prediction simulations via copulas and probabilistic graphical models: HIV case study. Health Care Manag Sci (December 2024). [https://doi.org/10.1007/s10729-024-09694-3](https://doi.org/10.1007/s10729-024-09694-3)
+1. 2025, Sharma, D., Shah, A., Gopalappa, C., A multi-agent reinforcement learning framework for public health decision analysis, Healthcare Analytics, Vol 8, November 2025 [LINK](https://doi.org/10.1016/j.health.2025.100436)
+
+2. 2024 Khosheghbal, A., Haas, P.J. & Gopalappa, C. Mechanistic modeling of social conditions in disease-prediction simulations via copulas and probabilistic graphical models: HIV case study. Health Care Manag Sci (December 2024). [https://doi.org/10.1007/s10729-024-09694-3](https://doi.org/10.1007/s10729-024-09694-3)
    
 3. 2024  Viguerie, A.,  Gopalappa, C., Lyles, C.M., Farnham, P.G., The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model, Epidemics, Volume 49, December 2024, [https://doi.org/10.1016/j.epidem.2024.100796](https://doi.org/10.1016/j.epidem.2024.100796)
    
