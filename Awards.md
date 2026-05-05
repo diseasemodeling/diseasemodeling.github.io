@@ -1,23 +1,25 @@
 # [Disease Modeling Lab, PI: Chaitra Gopalappa](https://diseasemodeling.github.io)
 ### [AWARDS AND RECOGNITION](#AWARDS)
 ### [FUNDING](#FUNDING)
-### [STUDENT NEWS](#STUDENT-NEWS)
+### [STUDENT AWARDS AND HIGHLIGHTS](#STUDENTAWARDS)
 
 ### <a id="AWARDS"></a> AWARDS AND RECOGNITION
+* 2025 -	Finalist, INFORMS Health Applications Scociety Sanjay and Panna Mehrotra Research Excellence Award for mid-career researchers (Professor Gopalappa).
+* 2025 -	Public Interest Technology Fellow - Responsible AI, UMass (Professor Gopalappa)
 * 2024 - Excellence in science award, Behavioral and Social Science Work Group (BSSWG), Centers for Disease Control and Prevention (Koenig et. al., AIDS, 2023)
-* 2024 - STRIDE faculty fellowship (Gopalappa, Professor), UMass Amherst
-* 2024 - Lee B. Lusted student best paper award -finalist, Society for Medical Decision Making (Dinesh Sharma and Hanisha Tatapudi, PhD students)
-* 2023- ADVANCE Faculty Peer Mentoring Award (Gopalappa, Professor), UMass Amherst
-* 2023- Plenary talk (Gopalappa, Professor), Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India
+* 2024 - STRIDE faculty fellowship, UMass Amherst (Professor Gopalappa)
+* 2024 - Lee B. Lusted student best paper award -finalist, Society for Medical Decision Making (PhD students Dinesh Sharma and Hanisha Tatapudi)
+* 2023- ADVANCE Faculty Peer Mentoring Award, UMass Amherst (Professor Gopalappa)
+* 2023- Plenary talk, Indian Institution of Industrial Engineering 65th National Convention, December, Bengaluru, India (Professor Gopalappa)
 * 2022- Invited to present model development works at multiple internal CDC and cross-agency meetings (Professor Gopalappa and PhD students Hanisha Tatapudi, Xinmeng Zhao, Seyeddeh Nazanin Khatami).
 * 2024, 2023- Invited to participate in joint CDC and NASTAD National Summit, National Cluster and Outbreak Detection and Response Implementation Learning Collaborative, Atlanta, June (Professor Gopalappa)
 * 2023- Panelist, Women in Data Science, Central Massachusetts @ WPI, March (Professor Gopalappa)
 * 2022- Appointed as Guest Researcher, Centers for Disease Control and Prevention (Professor Gopalappa)
 * 2021- Invited to present at Turning Research Into Practice (TRIP), CDC’s center-wide seminar (Professor Gopalappa)
-* 2021- Best paper award, IISE Modeling and Simulation Division -winner, IISE annual meeting (virtual under COVID-19) (Sonza Singh, PhD student).
+* 2021- Best paper award, IISE Modeling and Simulation Division -winner, IISE annual meeting (virtual under COVID-19) (PhD student Sonza Singh).
 * 2020- Engineering Racial Justice Curriculum Challenge- College of Engineering, UMAss Amherst, Fall 2020 (Professor Gopalappa)
-* 2018- Finalist, Operations Research best paper competition -finalist, INFORMS, Phoenix, AZ, with student first author (Matthew Eden, Undergraduate student) 
-* 2018- Finalist, Lee B. Lusted student best paper award, Society for Medical Decision Making, Montreal, Canada( Seyedeh Nazanin Khatami, MIE PhD candidate)
+* 2018- Finalist, Operations Research best paper competition -finalist, INFORMS, Phoenix, AZ, with student first author (Undergraduate student Matthew Eden) 
+* 2018- Finalist, Lee B. Lusted student best paper award, Society for Medical Decision Making, Montreal, Canada(PhD student Seyedeh Nazanin Khatami)
 * 2018- Nominated by the Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention (CDC), for the CDC Charles C. Shepard Science best paper award (Professor Gopalappa)
 * 2018- Invited by the World Health Organization (WHO) to serve on the Technical Expert Group for cervical cancer elimination- Meetings held at the WHO headquarters, Geneva, Switzerland, June 12 -17, 2018 and July 17-18, 2018, and Lyon, France, September 24-26, 2018. (Professor Gopalappa)
 * 2016- National Academy of Sciences’ Kavli Frontiers of Science fellow (Professor Gopalappa)
@@ -36,7 +38,8 @@
 * 2017-2023 Funding: NIH R01AI127236 $1.5 million (PI: Chaitra Gopalappa; Collaborators: CDC) for developing new models for HIV, July 2017 LINK
 * 2015-2016 Funding: WHO $56K (PI: Chaitra Gopalappa): Decision-analytic tool for early detection of cancer in low and middle income countries, 2015 -2016 LINK
 
-### <a id="STUDENT-NEWS"></a>STUDENT NEWS
+### <a id="STUDENTAWARDS"></a>STUDENT AWARDS AND HIGHLIGHTS
+*   Eden Vachtel, UMass Rising Researcher award for Honors thesis in Machine Learning for Predicting Food and Nutrition Insecurity, 2025
 *   Sonza Singh, Best paper award, IISE Modeling and Simulation Division, 2021.
 *   Hanisha Tatapudi joins Merck as Data Scientist, 2022
 *   Nazanin joins Harvard medical school as post-doctoral fellow, 2022 
@@ -44,6 +47,7 @@
 *   Dennis Hofmann start internship, Summer 2021
 *   Shifali Bansal defends MS thesis and starts full-time at Amazon, July 2020
 *   Nazanin starts internship at FICO -in data analytics using reinforcement learning, Summer 2020
+*   Rebecca Castonguay, UG - UMass Rising Researcher Award for Honors thesis in Deep Neural Network for Evolving Epidemic Network Modeling, 2019
 *   Hanisha Tatapudi joins as Research Fellow, UMass Amherst, Spring 2019
 *   Shifali Basal accepts an internship position at Super Brush,  Summer 2019
 *   Vijeta Deshpande starts a full-time job at Massachusetts General Hospital, 2019
