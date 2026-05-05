@@ -7,7 +7,8 @@ We develop mathematical and computational models for socio-technical systems, wi
 * deep reinforcement learning for identifying optimal resource allocation strategies in dynamic systems including population-level epidemics and individual-level health progression,
 * multi-agent reinforcement learning for cross-jurisidictional intervention analyses, and
 * network modeling and machine learning for early detection of disease outbreaks and rapid response.
-Translation work include the development of decision analytic tools for evalaution of national and global public health strategies for cancers, HIV, and STIs, in collaboration with the U.S. Centers for Disease Control and Prevention, the World Health Organization, the International Agency for Research on Cancer, and academic institutes.
+  
+Translation work include the development of decision analytic tools for evaluation of national and global public health strategies for cancers, HIV, and STIs, in collaboration with the U.S. Centers for Disease Control and Prevention, the World Health Organization, the International Agency for Research on Cancer, and academic institutes.
 
 Our work is funded by the National Institutes of Health, the National Science Foundation, Centers for Disease control and Prevention, and the World Health Organization.
 #### RESEARCH AREA: Simulation, networks, machine learning, reinforcement learning, simulation-based optimization, dynamic programming, stochastic processes
